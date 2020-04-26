@@ -1,6 +1,6 @@
 # CS50_AI_SixDegreesOfKevinBacon
 
-##The implementation of Six Degrees of Bacon, with the help of BFS. 
+## The implementation of Six Degrees of Bacon, with the help of BFS. 
 
 First, We are defining the functions of finding the neighbours and with that, we are using the BFS Approach and Finding the shortest way of 
 association between the two actors.
